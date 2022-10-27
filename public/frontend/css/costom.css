@@ -1,0 +1,35 @@
+body {
+    background-color: #92a8d1;
+}
+
+.cate image {
+    width: 60px;
+}
+
+.checkout-form label {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.checkout-form input {
+    font-size: 14px;
+    padding: 5px;
+    font-weight: 400;
+}
+
+
+.order-details label {
+    font-size: 12px;
+    font-weight: 700;
+
+}
+
+.order-details div {
+    font-size: 14px;
+    padding: 10px !important;
+
+}
+
+.ui-menu {
+    z-index: 4500 !important;
+}
