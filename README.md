@@ -54,6 +54,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## tampilan utama akses user
 <img width="960" alt="gambar1" src="https://user-images.githubusercontent.com/112800882/198465471-23e43c9e-b161-4058-bca7-0d59ce677a02.png">
+<img width="960" alt="gmb6" src="https://user-images.githubusercontent.com/112800882/198491541-f818786e-0523-44d4-ad0d-360f56d88d55.png">
+<img width="960" alt="gmbr5" src="https://user-images.githubusercontent.com/112800882/198492192-b551679f-0ba2-4d8b-9197-fe4cf5cf3e42.png">
 
 
 
