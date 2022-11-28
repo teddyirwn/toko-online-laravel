@@ -28,8 +28,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Fitur apa saja yang tersedia di onlineshopp?
 <li>Autentikasi Admin</li>
 <li>User & CRUD</li>
-<li>Category & CRUDn</li>
-<li>Product  & CRUDn </li>
+<li>Category & CRUD</li>
+<li>Product  & CRUD </li>
 <li>Order & CRUD </li>
 
 
