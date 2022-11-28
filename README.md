@@ -32,10 +32,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 <li>Product  & CRUD </li>
 <li>Order & CRUD </li>
 
+## login admin
+Email: admin@gmail.com <br/>
+password: 12345678
 
 
 
-<li> IG : tdyy_irwn12</li>
+## IG : tdyy_irwn12
 
 
 
@@ -53,7 +56,4 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 <img width="860" alt="Screenshot 2022-10-28 101517" src="https://user-images.githubusercontent.com/112800882/198494103-533fa9a8-feea-4762-8a8b-3fc27bc9b782.png">
 
 
-## login admin
-Email: admin@gmail.com <br/>
-password: 12345678
 
