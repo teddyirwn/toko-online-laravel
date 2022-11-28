@@ -34,17 +34,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 
 
-## instal
-<li>git clone https://github.com/teddycuy/toko-Online-Laravel.git</li>
-<li> cd Toko-Online-Laravel</li>
-<li>composer install </li>
-<li>cp .env.example .env</li>
 
-<p>bukan .env lalu ubah database sesuai dengan punyamu</p>
-<p>lalu jika sudah mennyesuaikan database punyamu tinggal ketik php artisan migrate</p>
-<p>tinggal jalankan website  "php artisan serve</p>
-
-## Author
 <li> IG : tdyy_irwn12</li>
 
 
