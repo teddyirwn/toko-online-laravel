@@ -32,9 +32,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 <li>Product  & CRUD </li>
 <li>Order & CRUD </li>
 
-## login admin
-Email: admin@gmail.com <br/>
-password: 12345678
+
 
 
 
